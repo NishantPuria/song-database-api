@@ -10,7 +10,7 @@
 // * - endpoints to be added
 // TODO - functionalities to be added
 
-// Input validation module
+// Joi input validation module
 const Joi = require('joi');
 // Express module
 const express = require('express');
